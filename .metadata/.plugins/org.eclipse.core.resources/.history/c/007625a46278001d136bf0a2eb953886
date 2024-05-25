@@ -1,0 +1,7 @@
+
+public class C extends B{
+	void display() {
+		System.out.println("class C");
+	}
+
+}
